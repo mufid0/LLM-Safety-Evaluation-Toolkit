@@ -85,11 +85,9 @@ Designed to test:
 
 ## 📊 Benchmark Visualization
 
-![Benchmark](results/figures/benchmark.png)
-
-<p align="center">
-  <img src="results/figures/benchmark.png" width="600"/>
-</p>
+DistilGPT2   |█████████████      0.64
+GPT-2        |███████████████    0.69
+GPT-2 Medium |█████████████████  0.72
 
 ---
 
