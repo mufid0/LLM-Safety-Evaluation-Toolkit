@@ -87,6 +87,10 @@ Designed to test:
 
 ![Benchmark](results/figures/benchmark.png)
 
+<p align="center">
+  <img src="results/figures/benchmark.png" width="600"/>
+</p>
+
 ---
 
 ## ⚙️ Tech Stack
