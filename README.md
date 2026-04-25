@@ -85,9 +85,9 @@ Designed to test:
 
 ## 📊 Benchmark Visualization
 
-DistilGPT2   |█████████████      0.64
-GPT-2        |███████████████    0.69
-GPT-2 Medium |█████████████████  0.72
+* DistilGPT2   |█████████████      0.64
+* GPT-2        |███████████████    0.69
+* GPT-2 Medium |█████████████████  0.72
 
 ---
 
