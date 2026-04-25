@@ -1,0 +1,6 @@
+transformers
+sentence-transformers
+scikit-learn
+pandas
+matplotlib
+datasets
