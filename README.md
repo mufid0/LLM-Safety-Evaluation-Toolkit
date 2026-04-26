@@ -104,13 +104,13 @@ llm-safety-evaluation-toolkit/
 
 ---
 
-## 🛡️ Safety & Alignment Analysis
+## 🛡️ Benchmark Analysis (TruthfulQA)
 
 <p align="center">
-  <img src="results/benchmark1.png" width="90%"/>
+  <img src="results/benchmark2.png" width="90%"/>
 </p>
 
-> Breakdown of model robustness across safety-critical dimensions.
+> Comparative analysis of LLM robustness under factual, adversarial, bias, and refusal scenarios.
 
 ---
 
