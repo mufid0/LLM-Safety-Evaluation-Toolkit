@@ -136,9 +136,9 @@ llm-safety-evaluation-toolkit/
 
 ## 🧠 Interpretation Dashboard
 
-🟢 Strength → Factual reasoning stability
-🟡 Moderate → Bias & refusal handling
-🔴 Weakness → Adversarial robustness
+* 🟢 Strength → Factual reasoning stability
+* 🟡 Moderate → Bias & refusal handling
+* 🔴 Weakness → Adversarial robustness
 
 ---
 
